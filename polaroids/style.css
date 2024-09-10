@@ -19,7 +19,7 @@ header {
     text-align: center;
     color:#333;
     padding:30px;
-    background-color: #d3d3d3;
+    background-color: #348a4a;
 }
 
 main#album{
@@ -34,7 +34,7 @@ section.coluna{
 }
 
 .products{
-    background-color: #ffffff;
+    background-color: #b2cfb4;
     border: 1px solid #ddd;
     padding:20px;
     margin-bottom:20px;
